@@ -45,8 +45,8 @@ class SinglyLinkedList():
                 node_i = node_i.next
                 i += 1
             return node_i.value
-    
-    def delete(self,index):
+
+    def delete(self, index):
         '''
         Index should be inside range
         -1 index means last element
@@ -60,12 +60,13 @@ class SinglyLinkedList():
         node_1 = self.start  # (i-1)th node
         node_2 = self.start.next  # (i)th node
         i = 0
-        while i<index:
-            i+=1
+        while i < index:
+            i += 1
             node_1 = node_2
             node_2 = node_2.next
-        
+
         node_1.next = node_2.next
+        self.length -= 1
 
     def _add_at_beginning(self, element):
         node_2 = self.start.next     # Will become the 2nd node
@@ -97,6 +98,7 @@ class SinglyLinkedList():
             i += 1
         node = Node(element, node_2)
         node_1.next = node
+        self.length += 1
 
     def print(self):
         node_i = self.start.next
