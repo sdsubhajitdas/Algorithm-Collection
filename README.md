@@ -34,7 +34,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Swap Bits](/BitManipulation/swap_bits)
 * [Data Structures](/Data%20Structures)
    * [Disjoint Set](/Data%20Structures/disjointset)
-   * [Doubly Linked List](/Data%20Structures/DoublyLinkedList)
+   * [Doubly Linked List](/Data%20Structures/DoublyLinkedList) ✔
    * [Fenwick Tree](/Data%20Structures/Fenwick_tree)
    * [LCA](/Data%20Structures/LCA)
    * [Queue](/Data%20Structures/Queue) ✔
