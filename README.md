@@ -38,7 +38,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Fenwick Tree](/Data%20Structures/Fenwick_tree)
    * [LCA](/Data%20Structures/LCA)
    * [Queue](/Data%20Structures/Queue) ✔
-   * [Queue From Stack](/Data%20Structures/QueueFromStack)
+   * [Queue From Stack](/Data%20Structures/QueueFromStack) ✔
    * [Stack From Queue](/Data%20Structures/StackFromQueue) ✔
    * [Red Black Tree](/Data%20Structures/Red%20Black%20Tree)
    * [Singly Linked List](/Data%20Structures/SinglyLinkedList) ✔
