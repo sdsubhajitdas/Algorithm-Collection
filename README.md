@@ -100,7 +100,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [4 Sum](/Hashing/4_Sum)
 * [Mathematical Algorithms](/Math)
    * [3 Sum square complexity](/Math/3_Sum) ✔
-   * [Factors Of A Given Number](/Math/All%20factors%20of%20a%20given%20Number)
+   * [Factors Of A Given Number](/Math/NumberFactors) ✔
    * [Collatz Conjecture](/Math/collatz_conjecture)
    * [Combinations](/Math/Combinations)
    * [Convuxhull](/Math/convuxhull)
