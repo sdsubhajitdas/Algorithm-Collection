@@ -102,7 +102,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [3 Sum square complexity](/Math/3_Sum) ✔
    * [Factors Of A Given Number](/Math/NumberFactors) ✔
    * [Collatz Conjecture](/Math/collatz_conjecture)
-   * [Combinations](/Math/Combinations)
+   * [Combinations](/Math/Combinations) ✔
    * [Convuxhull](/Math/convuxhull)
    * [Euler's Totient Function](/Math/eulers_totient_function)
    * [Factorization](/Math/Factorization)
