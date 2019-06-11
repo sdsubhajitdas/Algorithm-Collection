@@ -111,7 +111,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Greatest Common Divisor](/Math/GCD) ✔
    * [Histogram Area](/Math/histogram_area)
    * [Last Digit Exp](/Math/last_digit_exp)
-   * [Logarithm](/Math/log)
+   * [Logarithm](/Math/Log) ✔
    * [Lowest Common Multiple](/Math/LCM) ✔
    * [Matrix Power](/Math/Matrix_Power)
    * [Max Divisible Number](/Math/max_divisible_num)
