@@ -106,8 +106,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Convuxhull](/Math/convuxhull)
    * [Euler's Totient Function](/Math/eulers_totient_function)
    * [Prime Factorization](/Math/PrimeFactorization) ✔
-   * [Factors](/Math/factors)
-   * [Fast Exponentiation with Mod](/Math/Fast%20Exponentiation%20with%20Mod)
+   * [Fast Exponentiation with Mod](/Math/FastExponentiation) ✔
    * [Floor Square Root](/Math/floor_sqrt)
    * [Greatest Common Divisor](/Math/gcd)
    * [Histogram Area](/Math/histogram_area)

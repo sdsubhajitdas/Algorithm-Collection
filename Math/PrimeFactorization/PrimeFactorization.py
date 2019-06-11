@@ -14,6 +14,7 @@ def primeSieve(n: int) -> list:
 
 
 def primeFactors(n: int, table: list) -> list:
+    # O(log n) Complexity
     result = list()
 
     while (n != 1):
