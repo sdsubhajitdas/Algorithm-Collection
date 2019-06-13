@@ -49,7 +49,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Coin Change](/DP/CoinChange) ✔
    * [Collect Maximum Points](/DP/Collect_Max_Points)
    * [Edit Distance](/DP/EditDistance)
-   * [Fibonacci Series](/DP/Fibonacci)
+   * [Fibonacci Series](/DP/Fibonacci) ✔
    * [Floyd Warshall Algorithm](/DP/Floyd%20Warshall%20Algorithm)
    * [Game Of Sum](/DP/game_of_sum)
    * [Knapsack](/DP/Knapsack)
