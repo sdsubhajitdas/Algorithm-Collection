@@ -47,6 +47,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Trie](/Data%20Structures/Trie)
 * [Dynamic Programming](/DP)
    * [Coin Change](/DP/CoinChange) ✔
+   * [Range Sum Querying](/DP/RangeSumQuerying) ✔
    * [Collect Maximum Points](/DP/Collect_Max_Points)
    * [Edit Distance](/DP/EditDistance)
    * [Fibonacci Series](/DP/Fibonacci) ✔
