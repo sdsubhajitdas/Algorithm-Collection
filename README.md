@@ -55,7 +55,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Knapsack](/DP/Knapsack)
    * [Longest Palindrome Substring](/DP/Longest%20Palindrome%20Substring)
    * [Longest Common Increasing Subsequence](/DP/LCIS)
-   * [Longest Common Subsequence](/DP/LongestCommonSubsequence)
+   * [Longest Common Subsequence](/DP/LongestCommonSubsequence) ✔
    * [Longest Increasing Subsequence](/DP/LongestIncreasingSubsequence)
    * [Longest Repeated Subsequence](/DP/Longest%20Repeated%20Subsequence)
    * [Matrix Chain Multiplication](/DP/MatrixChain_multiplication)
