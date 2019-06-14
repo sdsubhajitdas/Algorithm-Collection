@@ -48,11 +48,11 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
 * [Dynamic Programming](/DP)
    * [Coin Change](/DP/CoinChange) ✔
    * [Collect Maximum Points](/DP/Collect_Max_Points)
-   * [Edit Distance](/DP/EditDistance)
+   * [Edit Distance](/DP/EditDistance) ✔
    * [Fibonacci Series](/DP/Fibonacci) ✔
    * [Floyd Warshall Algorithm](/DP/Floyd%20Warshall%20Algorithm)
    * [Game Of Sum](/DP/game_of_sum)
-   * [0/1 Knapsack](/DP/Knapsack) ✔
+   * [Knapsack 0/1](/DP/Knapsack) ✔
    * [Longest Palindrome Substring](/DP/Longest%20Palindrome%20Substring)
    * [Longest Common Increasing Subsequence](/DP/LCIS)
    * [Longest Common Subsequence](/DP/LongestCommonSubsequence) ✔
