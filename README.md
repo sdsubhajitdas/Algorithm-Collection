@@ -44,7 +44,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Singly Linked List](/Data%20Structures/SinglyLinkedList) ✔
    * [Stack](/Data%20Structures/Stack) ✔
    * [Segment Tree](/Data%20Structures/Segment%20Tree)
-   * [Trie](/Data%20Structures/Trie)
+   * [Trie](/Data%20Structures/Trie) ✔
 * [Dynamic Programming](/DP)
    * [Coin Change](/DP/CoinChange) ✔
    * [Collect Maximum Points](/DP/Collect_Max_Points)
