@@ -47,7 +47,6 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Trie](/Data%20Structures/Trie)
 * [Dynamic Programming](/DP)
    * [Coin Change](/DP/CoinChange) ✔
-   * [Range Sum Querying](/DP/RangeSumQuerying) ✔
    * [Collect Maximum Points](/DP/Collect_Max_Points)
    * [Edit Distance](/DP/EditDistance)
    * [Fibonacci Series](/DP/Fibonacci) ✔
@@ -60,10 +59,12 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Longest Increasing Subsequence](/DP/LongestIncreasingSubsequence)
    * [Longest Repeated Subsequence](/DP/Longest%20Repeated%20Subsequence)
    * [Matrix Chain Multiplication](/DP/MatrixChain_multiplication)
+   * [Max Contiguous Subarray Sum](/DP/MaxContiSubarraySum) ✔
    * [Max Sum Increasing Subsequence](/DP/Maximum%20Sum%20Increasing%20Subsequence)
    * [Minimum Path Sum](/DP/MinimumPathSum)
    * [Number Of Islands](/DP/NumberOfIslands)
    * [Print Neatly](/DP/PrintNeatly)
+   * [Range Sum Querying](/DP/RangeSumQuerying) ✔
    * [Shortest Uncommon Subsequence](/DP/ShortestUncommonSubsequence)
    * [Subset Sum](/DP/subset%20sum%20problem)
 * [Graph Algorithms](/Graph)
