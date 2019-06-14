@@ -52,7 +52,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Fibonacci Series](/DP/Fibonacci) ✔
    * [Floyd Warshall Algorithm](/DP/Floyd%20Warshall%20Algorithm)
    * [Game Of Sum](/DP/game_of_sum)
-   * [Knapsack](/DP/Knapsack)
+   * [0/1 Knapsack](/DP/Knapsack) ✔
    * [Longest Palindrome Substring](/DP/Longest%20Palindrome%20Substring)
    * [Longest Common Increasing Subsequence](/DP/LCIS)
    * [Longest Common Subsequence](/DP/LongestCommonSubsequence) ✔
