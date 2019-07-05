@@ -69,7 +69,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Subset Sum](/DP/subset%20sum%20problem)
 * [Graph Algorithms](/Graph)
    * [Articulation Points](/Graph/Articulation_points)
-   * [Bellman Ford SSSP](/Graph/BellmanFordSSSP)
+   * [Bellman Ford SSSP](/Graph/BellmanFord) ✔
    * [Bridges](/Graph/bridges)
    * [Centroid Decomposition](/Graph/Centroid%20Decomposition)
    * [Detect Cycle](/Graph/Detect_Cycle)
