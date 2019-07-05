@@ -74,7 +74,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Centroid Decomposition](/Graph/Centroid%20Decomposition)
    * [Detect Cycle](/Graph/Detect_Cycle)
    * [Dials Algorithm](/Graph/DialsAlgorithm)
-   * [Dijkstras SPT](/Graph/DijkstrasSPT)
+   * [Dijkstras SPT](/Graph/Dijkstras) ✔
    * [Euler Path](/Graph/EulerPath)
    * [Floyd Warshall](/Graph/FloydWarshall)
    * [Graph Coloring](/Graph/Graph_m_Coloring)
