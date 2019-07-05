@@ -83,7 +83,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Prims MST](/Graph/PrimsMST)
    * [Sack](/Graph/Sack)
    * [Targan SCC](/Graph/TarganSCC)
-   * [Topo Sort](/Graph/TopoSort)
+   * [Topological Sort](/Graph/TopologicalSort) ✔
 * [Greedy Algorithms](/Greedy)
    * [Activity Selection](/Greedy/ActivitySelection)
    * [Containership](/Greedy/ContainerShip)
