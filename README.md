@@ -35,7 +35,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
 * [Data Structures](/Data%20Structures)
    * [Disjoint Set](/Data%20Structures/disjointset)
    * [Doubly Linked List](/Data%20Structures/DoublyLinkedList) ✔
-   * [Fenwick Tree](/Data%20Structures/Fenwick_tree)
+   * [Fenwick Tree or Binary Indexed Tree](/Data%20Structures/FenwickTree) ✔
    * [LCA](/Data%20Structures/LCA)
    * [Queue](/Data%20Structures/Queue) ✔
    * [Queue From Stack](/Data%20Structures/QueueFromStack) ✔
@@ -85,7 +85,7 @@ and the file name would be **" HamiltonPath.java " or " HamiltonPath.txt "**
    * [Targan SCC](/Graph/TarganSCC)
    * [Topological Sort](/Graph/TopologicalSort) ✔
 * [Greedy Algorithms](/Greedy)
-   * [Activity Selection](/Greedy/ActivitySelection)
+   * [Activity Selection](/Greedy/ActivitySelection) ✔
    * [Containership](/Greedy/ContainerShip)
    * [Equalizing Bit Strings](/Greedy/EqualizingBitStrings)
    * [Gas Station](/Greedy/Gas%20Station)
